@@ -1,6 +1,6 @@
 <?php
 
-require_once 'Controllers\BoardController.php';
+require_once 'Controllers/BoardController.php';
 
 class Routing {
     private $routes = [];
